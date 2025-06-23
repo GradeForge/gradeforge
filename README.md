@@ -1,3 +1,2 @@
-# GradeForge React App
-
-Deployed with Vercel.
+# GradeForge - Premium Academic Writing Website
+Deployed using Create React App & Tailwind CSS.
