@@ -1,2 +1,3 @@
-# GradeForge
-Premium Academic Support Website built with React + Tailwind CSS.
+# GradeForge React App
+
+Deployed with Vercel.
